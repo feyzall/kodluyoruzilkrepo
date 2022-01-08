@@ -25,4 +25,4 @@ Pull requestleri kabul edilir. Büyük değişiklikler için, lütfen önce neyi
 
 ## License 
 
-[MIT](https://google.com)
+[MIT](https://github.com/alikartalonline/kodluyoruzilkrepo/blob/main/LICENSE)
